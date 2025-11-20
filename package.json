@@ -1,0 +1,41 @@
+{
+  "name": "redocs-ferra-theme",
+  "displayName": "Redoc's Ferra Theme",
+  "publisher": "neptotech",
+  "description": "A handpicked port of https://github.com/casperstorm/ferra/ color palette to VSCode.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "ferra",
+    "pastel",
+    "high-contrast",
+    "redoc",
+    "neptotech"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neptotech/redocs-ferra-theme.git"
+  },
+  "homepage": "https://github.com/neptotech/redocs-ferra-theme",
+  "bugs": {
+    "url": "https://github.com/neptotech/redocs-ferra-theme/issues"
+  },
+  "license": "GPL-2.0",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Redoc's Ferra Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ferra-color-theme.json"
+      }
+    ]
+  }
+}
