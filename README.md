@@ -2,7 +2,7 @@
 ----------
 ![](image.png)
 [Vscode port of ferra theme]  
-A handpicked port of https://github.com/casperstorm/ferra/ color palette to VSCode.
+A handpicked port of https://github.com/casperstorm/ferra/ color palette to VSCode. [Install it now](https://marketplace.visualstudio.com/items?itemName=neptotech.redocs-ferra-theme)
 
 ----
 ![](image-1.png) [Actual ferra theme]
