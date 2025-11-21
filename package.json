@@ -3,7 +3,7 @@
   "displayName": "Redoc's Ferra Theme",
   "publisher": "neptotech",
   "description": "A handpicked port of https://github.com/casperstorm/ferra/ color palette to VSCode.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.80.0"
